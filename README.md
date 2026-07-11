@@ -3,7 +3,8 @@
 Email Me 👉 ✉️ **62035sushilkumar@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
-## 🔗Driven by a deep interest in technology and engineering, I am a 12th-grade student currently preparing for the JEE. My technical background spans software and hardware, with experience in developing on-demand websites and mobile applications using C++, HTML, and AI-assisted development frameworks. I thrive in competitive environments, whether it’s designing prize-winning electronic projects for exhibitions at IIT ISM or competing in district-level sports. My approach to technology is multidisciplinary; I combine a logical foundation in coding with the creative precision of a visual artist. I am passionate about leveraging modern AI tools to solve complex problems and am constantly seeking to expand my knowledge in electronics and computer science. 😊😊 I am a just a beginner.
+## 🔗Driven by a deep interest in technology and engineering, I am a 12th-grade student currently preparing for the JEE. My technical background spans software and hardware, with experience in developing on-demand websites and mobile applications using C++, HTML, and AI-assisted development frameworks. I thrive in competitive environments, whether it’s designing prize-winning electronic projects for exhibitions at IIT ISM or competing in district-level sports. My approach to technology is multidisciplinary; I combine a logical foundation in coding with the creative precision of a visual artist. I am passionate about leveraging modern AI tools to solve complex problems and am constantly seeking to expand my knowledge in electronics and computer science. 
+😊😊 I am a just a beginner.
 
 
 <!-- Snake Game Repo View -->
